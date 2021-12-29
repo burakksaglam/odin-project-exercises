@@ -1,0 +1,19 @@
+            div.alert_text {
+                color: red;
+            }
+
+            #konya-yolu {
+                color: green;
+            }
+
+            .ancestor .contents {
+                color: purple;
+            }
+
+            #parent {
+                color: red;
+            }
+
+            .child {
+                color: blue;
+            }
